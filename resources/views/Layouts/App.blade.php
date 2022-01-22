@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.88.1">
-    <title>Jumbotron example · Bootstrap v5.1</title>
+    <title>Project Monitoring</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/jumbotron/">
 
